@@ -85,6 +85,19 @@ python vtk_ply_viewer.py single path/to/model.ply --interactive
 
 ## Examples
 
+### Example Views with Axis Labels
+
+Below are example views of a 3D model with axis references:
+
+#### Root Front View (Looking along the +Z axis)
+![Root Front View](root_views/front_view.png)
+
+#### Root Top View (Looking along the -Y axis)
+![Root Top View](root_views/top_view.png)
+
+#### Root Side View (Looking along the +X axis)
+![Root Side View](root_views/side_view.png)
+
 ### Generate views with solid rendering:
 
 ```bash
